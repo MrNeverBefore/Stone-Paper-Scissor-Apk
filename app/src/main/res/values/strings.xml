@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="wel">Welcome</string>
+    <string name="img">Hand</string>
+    <string name="img2">stone</string>
+    <string name="img3">sessor</string>
+    <string name="score1">0</string>
+    <string name="score2">0</string>
+    <string name="scoredisplay">score</string>
+    <string name="button">reset</string>
+    <string name="display">Display</string>
+    <string name="vs">vs</string>
+    <string name="win">win</string>
+    <string name="choose">choose</string>
+    <string name="bot">bot</string>
+    <string name="user">user</string>
+    <string name="button2">Continue</string>
+    <string name="creator">Design by Rohit</string>
+    <string name="Daww">Draw</string>
+</resources>
